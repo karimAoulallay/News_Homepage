@@ -12,6 +12,6 @@
 *.xd
 
 
-node_modules/
-input.css/
+node_modules
+input.css
 style-guide.md
